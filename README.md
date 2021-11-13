@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages 1111111
+## FL4P-WSDM
 
-You can use the [editor on GitHub](https://github.com/HappyDay1998/FL4P-WSDM.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+FL4P-WSDM, which stands for Federated Learning for Private Web Search and Data Mining
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
