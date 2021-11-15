@@ -70,9 +70,9 @@ The targeted audience of the workshop include web search and data mining practit
 
 11:45AM-12:45PM  &ensp; Lunch Break
 
-12:45PM-01:45PM   &ensp;Panel Seesion
+12:45PM-01:45PM   &ensp; Panel Seesion
 
-01:45PM-02:00PM  &ensp;Concluding Remarks
+01:45PM-02:00PM  &ensp; Concluding Remarks
 
 ##  Preliminary format of the workshop
 We plan to organize a half-day workshop, consisting of keynote presentations, paper presentations and a panel discussion.
