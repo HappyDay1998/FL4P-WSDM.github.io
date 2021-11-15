@@ -2,8 +2,6 @@
 ![avatar](C:/Downloads/shutterstock_1131418724.jpg)
 FL4P-WSDM, which stands for Federated Learning for Private Web Search and Data Mining
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 <div align='center' ><font size='120'>Introduction</font></div>
 
 <font face="Droid Serif">Using data from multiple parties is becoming popular in AI model learning. The algorithm research serving this purpose is known as
