@@ -24,7 +24,7 @@ the well-studied single-machine model training speedup solutions like efficient 
 a bottleneck for deploying a federated learning algorithm. How to deal with the communication efficiency issues such as network or participant delay, especially when there are
 a huge number of involved devices, needs further research efforts.
 
-* **Applications in web search and data mining. **Federated learning was originally proposed in 2016. As a novel and generic solution to data insufficiency problem, there will
+* **Applications in web search and data mining.** Federated learning was originally proposed in 2016. As a novel and generic solution to data insufficiency problem, there will
 definitely be much broader use in web search and data mining. Therefore it deserves creating more channels so that the concept can be well introduced to domain practitioners.
 The workshop we plan to organize is targeted on the above and other relevant issues, aiming to create a platform for people from academia and industry to communicate their insights and recent results.
 
@@ -40,7 +40,7 @@ Specifically, the workshop will focus on the following topics:
 * Attacks on data privacy in web search and data mining;
 * Datasets and open-source tools for federated and privacy preserving web search and data mining.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
