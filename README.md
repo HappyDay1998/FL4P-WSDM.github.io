@@ -57,13 +57,21 @@ The targeted audience of the workshop include web search and data mining practit
 
 ## Schedule
 08:45AM-09:00AM   Opening
+
 09:00AM-09:45AM   Keynote Talk 1
+
 09:45AM-10:00AM   Coffee Break
+
 10:00AM-10:45AM   Keynote Talk 2
+
 10:45AM-11:00AM   Coffee Break
+
 11:00AM-11:45AM   Keynote Talk 3
+
 11:45AM-12:45PM   Lunch Break
+
 12:45PM-01:45PM   Panel Seesion
+
 01:45PM-02:00PM   Concluding Remarks
 
 ##  Preliminary format of the workshop
