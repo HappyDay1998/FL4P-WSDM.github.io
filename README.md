@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Introduction
 
-<font face="italic">Using data from multiple parties is becoming popular in AI model learning. The algorithm research serving this purpose is known as
+<font face="Droid Serif">Using data from multiple parties is becoming popular in AI model learning. The algorithm research serving this purpose is known as
 federated learning, which has received increasing attention from both academic and industry. As a generic solution to data insufficiency, federated learning has demonstrated high potential in numerous web search and data mining problems. Moreover, the widespread data use in web search and data mining services and products has aroused concern on data privacy protection. Therefore, we propose to organize a workshop discussing the relevant issues. In this proposal we introduce the detail of the workshop motivation, topics, rational, format, and organizers’ information.
 
 We propose to organize this Federated and Privacy-Preserving Web Search and Data Mining: Theories, Algorithms and Applications Workshop, aiming to gather the academic and industry community together to tackle the theory, algorithm and application issues of using decentralized data in web search and data mining applications.</font>
