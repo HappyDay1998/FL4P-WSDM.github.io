@@ -4,7 +4,7 @@ FL4P-WSDM, which stands for Federated Learning for Private Web Search and Data M
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<div align='center' ><font size='70'>##Introduction</font></div>
+<div align='center' ><font size='120'>Introduction</font></div>
 
 <font face="Droid Serif">Using data from multiple parties is becoming popular in AI model learning. The algorithm research serving this purpose is known as
 federated learning, which has received increasing attention from both academic and industry. As a generic solution to data insufficiency, federated learning has demonstrated high potential in numerous web search and data mining problems. Moreover, the widespread data use in web search and data mining services and products has aroused concern on data privacy protection. Therefore, we propose to organize a workshop discussing the relevant issues. In this proposal we introduce the detail of the workshop motivation, topics, rational, format, and organizers’ information.
