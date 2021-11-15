@@ -98,17 +98,25 @@ At the end of the workshop there will be a 30-minute panel discussion between ke
 ## Organizers
 
 * **Dr. Bo Liu** is a Senior Research Scientist in JD Technology Silicon Valley R&D Lab. He obtained his PhD degree from the Department of Computer Science at Rutgers University in 2018. Currently he focuses on federated learning and privacy-preserving computing research and product development. He has published over 50 conference and journal papers in machine learning and its applications, such as JMLR, ICML, AISTATS, AAAI, IJCAI, CIKM etc.. His group has recently released an open source privacy-preserving machine learning tool FedLearn-Algo (https://github.com/fedlearnAI/fedlearnalgo).
-![Bo liu](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2Fe93n8AAAAJ&citpid=2){:height="50%" width="50%"}
+
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2Fe93n8AAAAJ&citpid=2" width = "300" height = "200" alt="Bo Liu" align=center />
 
 * **Dr. Dongjin Song** is an assistant professor in the Department of Computer Science and Engineering at the University of Connecticut. Before that, he had been a research staff member at NEC Labs America and obtained his Ph.D. degree from the Department of Electrical and Computer Engineering at University of California,San Diego (UCSD) in 2016. His research interests include machine learning, data mining, federated learning, and related applications for time series data analysis as well as graph representation learning. He has published over 40 papers in top-tier data mining and artificial intelligence conferences, such as KDD, ICDM, SDM, ICML, ICLR, AAAI, IJCAI, ICCV, etc. He has served as Senior PC for AAAI, IJCAI,and CIKM. His personal website is: https://songdj.github.io/.
-![DonjingSong](https://songdj.github.io/author/dongjin-song/avatar%202_huadb1ab2f651eaef92367682ab67b1646_2874891_270x270_fill_lanczos_center_2.png){:height="50%" width="50%"}
+
+
+<img src="https://songdj.github.io/author/dongjin-song/avatar%202_huadb1ab2f651eaef92367682ab67b1646_2874891_270x270_fill_lanczos_center_2.png" width = "300" height = "200" alt="Dongjin Song" align=center />
+
 
 * **Dr. Fenglong Ma** is currently an assistant professor in the College of Information Sciences and Technology at the Pennsylvania State University. He received his Ph.D. from the Department of Computer Science and Engineering, University at Buffalo (UB) in 2019. His research interests lie in data mining and machine learning, with an emphasis on mining health-related data. His research interests also include federated learning, natural language processing, social network mining and security. He has published over 70 papers in top conferences and journals such as KDD, WWW, WSDM, CIKM, ACL, AAAI, IJCAI, S&P, and TKDE. More information can be found at his website: http://personal.psu.edu/ffm5105/.
-![Fenglong Ma](https://ist.psu.edu/sites/default/files/directory/Ma-Fenglong.jpg){:height="50%" width="50%"}
+
+
+<img src="https://ist.psu.edu/sites/default/files/directory/Ma-Fenglong.jpg" width = "300" height = "200" alt="Fenglong Ma" align=center />
 
 * **Dr. Heng Huang** is the John A. Jurenko Endowed Professor at the Department of Electrical and Computer Engineering, University of Pittsburgh. Dr. Huang has published more than 130 papers in top-tier conferences and many papers in premium journals such as NIPS, ICML, KDD, RECOMB, ISMB, IJCAI, AAAI, CVPR, ICCV, SIGIR, Bioinformatics, IEEE Trans. On Medical Imaging, Medical Image Analysis, IEEE TKDE, and others. As principal investigator, is leading a National Institutes of Health-funded R01 project on imaging genomics based complex brain disorder study, multiple NSF-funded projects on precision medicine, biomedical data science, big data mining, electronic medical record data mining and
 privacy-preserving, computational biology, smart healthcare, cyber physical systems, and also industry-funded projects on computational sustainability, smart metering, and smart grids.
-![Heng Huang](https://sites.pitt.edu/~heh45/heng.JPG){:height="50%" width="50%"}
+
+<img src="https://sites.pitt.edu/~heh45/heng.JPG" width = "300" height = "200" alt="Heng Huang" align=center />
+
 ## Previous academic events organizations
 **Dr. Dongjin Song** has served as session chair in the following conferences:
 * KDD 2021: Graphs and Networks
