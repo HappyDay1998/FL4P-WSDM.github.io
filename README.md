@@ -1,5 +1,5 @@
 ## FL4P-WSDM
-![avatar](C:/Downloads/shutterstock_1131418724.jpg)
+![avatar](C:/Desktop/shutterstock_1131418724.jpg)
 FL4P-WSDM, which stands for Federated Learning for Private Web Search and Data Mining
 
 <div align='center' ><font size='120'>Introduction</font></div>
