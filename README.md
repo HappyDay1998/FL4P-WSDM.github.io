@@ -1,5 +1,5 @@
 ## FL4P-WSDM
-
+![avatar](C:/Downloads/shutterstock_1131418724.jpg)
 FL4P-WSDM, which stands for Federated Learning for Private Web Search and Data Mining
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
