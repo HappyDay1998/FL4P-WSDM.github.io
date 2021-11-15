@@ -56,23 +56,23 @@ The major difference between our proposal and these previous workshops is that w
 The targeted audience of the workshop include web search and data mining practitioners from both academia and industry, whose research interest is relevant to multi-machine or federated learning algorithm and data privacy protection. We expect to have 50 participants including organizers, keynote speakers, paper authors and audiences.
 
 ## Schedule
-08:45AM-09:00AM   &ensp Opening
+08:45AM-09:00AM   &ensp; Opening
 
-09:00AM-09:45AM  &ensp Keynote Talk 1
+09:00AM-09:45AM  &ensp; Keynote Talk 1
 
-09:45AM-10:00AM   &ensp Coffee Break
+09:45AM-10:00AM   &ensp; Coffee Break
 
-10:00AM-10:45AM  &ensp Keynote Talk 2
+10:00AM-10:45AM  &ensp; Keynote Talk 2
 
-10:45AM-11:00AM   &ensp Coffee Break
+10:45AM-11:00AM   &ensp; Coffee Break
 
-11:00AM-11:45AM  &ensp Keynote Talk 3
+11:00AM-11:45AM  &ensp; Keynote Talk 3
 
-11:45AM-12:45PM  &ensp Lunch Break
+11:45AM-12:45PM  &ensp; Lunch Break
 
-12:45PM-01:45PM   &ensp Panel Seesion
+12:45PM-01:45PM   &ensp;Panel Seesion
 
-01:45PM-02:00PM  &ensp Concluding Remarks
+01:45PM-02:00PM  &ensp;Concluding Remarks
 
 ##  Preliminary format of the workshop
 We plan to organize a half-day workshop, consisting of keynote presentations, paper presentations and a panel discussion.
